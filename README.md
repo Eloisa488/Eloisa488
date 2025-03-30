@@ -2,6 +2,8 @@
 Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos,eu gosto muito de ver pinterest,pintar a unha e comprar coisas na internet.minhas melhores amigas da escola são:Livia,vivian,yasmin e soraia.
 ## 🤖linguagens e tecnologias
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 <!--
 **Eloisa488/Eloisa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
