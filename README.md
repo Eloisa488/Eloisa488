@@ -1,4 +1,5 @@
 ## Oi eu sou a Eloisa✨🎀
+Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos.
 
 <!--
 **Eloisa488/Eloisa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
