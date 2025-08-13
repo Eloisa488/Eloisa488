@@ -3,4 +3,4 @@ Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos,eu gosto muito 
 
 
 
- Veja este GIF... 👀 
+ 
