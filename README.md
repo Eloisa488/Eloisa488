@@ -38,7 +38,7 @@ Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos,eu gosto muito 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Eloisa488]&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 
 ---
