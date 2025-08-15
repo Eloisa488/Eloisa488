@@ -36,7 +36,7 @@ Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos,eu gosto muito 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/19/d5/39/19d5396de3a54f311a7ec6a5eb3456dc.gif" width="300" alt="GIF de programação" />
+  <img src="https://i.pinimg.com/originals/f3/bd/41/f3bd4111bcb8165e289f30b0863698e4.gif" width="300" alt="GIF de programação" />
 </p>
 
 
