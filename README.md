@@ -33,15 +33,7 @@ Eu me chamo eloisa mais muitos me chamam de "pata" tenho 16 anos,eu gosto muito 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 <!-- Adicione ou remova as tecnologias que você usa -->
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Eloisa488]&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</p>
-
----
 
 ## 🎯 Objetivos atuais
 
